@@ -73,8 +73,33 @@ Choose your instructions below! And don't forget to mention `@race-of-sloths` in
 </details>
 
 <details>
+<summary>🌟 Bonus Points!</summary>
 
-  
+### Want to test another cool feature? Follow these steps:
+
+1. Visit our [website](https://race-of-sloths.com) and authorize with GitHub
+2. Click on your avatar in the top right corner. 
+3. Copy your shareable snippet by clicking on "Copy Code" (it looks something like this):
+
+![image](https://github.com/user-attachments/assets/06af7cfc-b15b-4bc5-ab47-d919039c9b6a)
+
+4. Create a new file in the repository:
+   - Name it `[your-login]-snippet.md`
+   - Paste your copied snippet into the file
+
+5. Create a PR just like before:
+   - Use title: "Add [your-name]'s profile snippet"
+   - Don't forget to mention `@race-of-sloths` in the description!
+
+Did you know that you can customize your GitHub Profile page? It might look something like [this](https://github.com/akorchyn)
+
+If you ever want to use it. Create a repo with your username and put the snippet in the `README.md` file.
+
+Here is an [example](https://github.com/akorchyn/akorchyn/blob/main/README.md?plain=1)
+
+</details>
+
+<details>
 <summary>✨ Tips for Success</summary>
 
 - Follow the exact formatting shown above
