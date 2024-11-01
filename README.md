@@ -80,13 +80,5 @@ Join our community by adding your name to our contributors list. Choose your pre
 If you run into any issues:
 1. Check out our [Telegram chat](https://t.me/race_of_sloths_chat)
 
-<details>
-<summary>🎯 Next Steps</summary>
-
-After your PR is merged:
-- ⭐ Star the repository
-- 🔍 Check out other ways to contribute
-- 🤝 Connect with other contributors
 </details>
-
 Happy Contributing! 🚀
