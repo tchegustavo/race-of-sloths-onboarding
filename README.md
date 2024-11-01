@@ -83,4 +83,6 @@ If you run into any issues:
 1. Check out our [Telegram chat](https://t.me/race_of_sloths_chat)
 
 </details>
+
+
 Happy Contributing! 🚀
