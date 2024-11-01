@@ -1,6 +1,7 @@
-# Welcome to Our Community Event! 🎉
+# Welcome! 🎉
 
-Join our community by adding your name to our contributors list. Choose your preferred device below for instructions!
+Check out our application by participating in this simple PR walkthrough
+Choose your instructions below! And don't forget to mention `@race-of-sloths` in the PR description :)
 
 <details>
 <summary>🖥️ Desktop Instructions</summary>
