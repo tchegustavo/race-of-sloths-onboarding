@@ -13,16 +13,19 @@ Choose your instructions below! And don't forget to mention `@race-of-sloths` in
 - Confirm creating the fork
 - Wait for the repository to be forked to your account
 
-### 2. Add Your Name
-![Editing file](https://github.com/user-attachments/assets/402b5b0a-99ed-48a4-a93a-e37ebe5b8e65)
-- Navigate to the `CONTRIBUTORS.md` file
-- Click the ✏️ (Edit) button
-- Add your name to the list in the following format:
+### 2. Add File With Your Name
+![image](https://github.com/user-attachments/assets/1a2d7956-74c8-4e01-8a78-e389fe8bb024)
+- Create a file with `[your-login].md`
+- Add your name to the file
 ```markdown
 - Your username
 ```
+- The file should look like that:
+
+![Example of the created file](https://github.com/user-attachments/assets/a8895912-4489-464e-8ba1-e2a77a985d29)
+
 - Scroll down and click **Commit changes**
-  - Add a commit message: "Add [your-name] to contributors list"
+  - Add a commit message: "Add [your-name] to the contributors list"
   - Select "Commit directly to the main branch"
   - Click "Commit changes"
 
@@ -45,13 +48,16 @@ Choose your instructions below! And don't forget to mention `@race-of-sloths` in
 - Wait for the repository to be forked to your account
 
 ### 2. Add Your Name
-![Mobile editing file](https://github.com/user-attachments/assets/e9e6769d-7cab-45fc-acfa-a2045be62833)
-- Navigate to the `CONTRIBUTORS.md` file
-- Tap the three dots icon. Click on "Edit in place"
-- Add your name to the list using the next format:
+![image](https://github.com/user-attachments/assets/3078aff4-2b65-4d4b-9e27-db0b394c817f)
+- Tap the three dots icon. Click on "Create new file"
+- Add your name into the file:
 ```markdown
 - Your username
 ```
+- The file should look like that:
+
+![Example of the created file](https://github.com/user-attachments/assets/815bbf52-3508-4d05-a8b0-eb3a9b2bf916)
+
 - Scroll down and tap "Commit changes"
   - Add the commit message
   - Select "Commit directly to the main branch"
