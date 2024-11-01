@@ -1,6 +1,7 @@
 # Welcome! 🎉
 
-Check out our application by participating in this simple PR walkthrough
+Check out our application by participating in this simple PR walkthrough.
+
 Choose your instructions below! And don't forget to mention `@race-of-sloths` in the PR description :)
 
 <details>
