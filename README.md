@@ -73,11 +73,12 @@ Choose your instructions below! And don't forget to mention `@race-of-sloths` in
 </details>
 
 <details>
+
+  
 <summary>✨ Tips for Success</summary>
 
-- Make sure your name isn't already in the list
 - Follow the exact formatting shown above
-- Only modify the `CONTRIBUTORS.md` file
+- Only create new files
 - Create only one PR for your contribution
 - Be patient while waiting for review
 </details>
