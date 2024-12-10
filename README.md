@@ -1,8 +1,14 @@
-# Welcome! 🎉
+# Race of Sloths Onboarding: Join the Race and Become a Contributor! ☄️
 
-Check out our application by participating in this simple PR walkthrough.
+Exciting things are happening at Race of Sloths, and we're kicking off with this special onboarding! Here's your chance to get involved, contribute, and become a part of our community.
 
-Choose your instructions below! And don't forget to mention `@race-of-sloths` in the PR description :)
+## Getting Started 🚀
+
+We've made onboarding easy as 1-2-3. Follow these instructions to become a contributor! You'll be making your first PR in no time. 😎
+
+Don't forget to mention `@race-of-sloths` in your PR description—it's all part of the process!
+
+Choose your instructions below to get started with your contribution:
 
 <details>
 <summary>🖥️ Desktop Instructions</summary>
@@ -96,7 +102,6 @@ Did you know that you can customize your GitHub Profile page? It might look some
 If you ever want to use it. Create a repo with your username and put the snippet in the `README.md` file.
 
 Here is an [example](https://github.com/akorchyn/akorchyn/blob/main/README.md?plain=1)
-
 </details>
 
 <details>
@@ -108,13 +113,28 @@ Here is an [example](https://github.com/akorchyn/akorchyn/blob/main/README.md?pl
 - Be patient while waiting for review
 </details>
 
+## Next Steps 🌟
+
+### Join Our Community
+We're all over the place, and we want you to be, too!
+
+- **Telegram**: Stay in the loop with announcements and join the conversation.
+  👉 [Join our chat](https://t.me/race_of_sloths_chat)
+
+- **Reddit**: Share your contributions, get feedback, and connect with other members.
+  👉 [Join r/RaceOfSloth](https://www.reddit.com/r/RaceOfSloth/)
+
+- **X (Twitter)**: Follow us for updates and the latest from Race of Sloths HQ.
+  👉 [@race_of_sloths](https://x.com/race_of_sloths)
+
+- **GitHub**: See the magic happen and get hands-on.
+  👉 [Race of Sloths](https://github.com/race-of-sloths)
+
 <details>
 <summary>🤔 Need Help?</summary>
 
 If you run into any issues:
 1. Check out our [Telegram chat](https://t.me/race_of_sloths_chat)
-
 </details>
 
-
-Happy Contributing! 🚀
+Your contributions—no matter how small—help shape the future. Let's make this happen. It's simple, it's fun, and we can't wait to see what you'll come up with!
